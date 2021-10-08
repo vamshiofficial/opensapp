@@ -1,0 +1,63 @@
+export default {
+    primary:'#FC4A1A',
+    //primary black opacity increasing
+     PB1:'#FC4A1A',
+     PB2:'#FB3E09',
+     PB3:'#ED3604',
+     PB4:'#D93203',
+     PB5:'#C52D03',
+     //primary white opacity increasing
+     PW1:'#FC4A1A',
+     PW2:'#FC5A2D',
+     PW3:'#FC673D',
+     PW4:'#FC734D',
+     PW5:'#FD805E',
+     PW6:'#FD8D6E',
+     PW7:'#FD997E',
+     PW8:'#FDA68E',
+     PW9:'#FEB39E',
+     PW10:'#FEBFAE',
+    //=================================
+    //===========secondary=============
+    //=================================
+    secondary:'#ee3758',
+    //secondary black opacity increasing
+    SD1:'#EE3758',
+    SD2:'#EC2247',
+    SD3:'#E5143A',
+    SD4:'#D21235',
+    SD5:'#BF1131',
+    SD6:'#AC0F2C',
+    SD7:'#990D27',
+    SD8:'#860C22',
+    SD9:'#730A1D',
+    SD10:'#600818',
+     //secondary white opacity increasing
+     SW1:'#EE3758',
+     SW2:'#EF4463',
+     SW3:'#F0526F',
+     SW4:'#F1607B',
+     SW5:'#F26F87',
+     SW6:'#F47D93',
+     SW7:'#F58C9F',
+     SW8:'#F69AAB',
+     SW9:'#F7A9B7',
+     SW10:'#F7A9B7',
+     //----------------
+     black:'#000',
+     black1:'#373737',
+     black2:'#494949',
+     black3:'#5B5B5B',
+     black4:'#A4A4A4',
+     //-----------------
+     white:'#fff',
+     white1:'#EDEDED',
+     white2:'#DBDBDB',
+     white3:'#C8C8C8',
+     white4:'#B6B6B6',
+     white5:'#A4A4A4',
+     //-----------------
+     red:'red',
+     directs:'#3498db',
+     bglight:'#f6f7f9'
+}
